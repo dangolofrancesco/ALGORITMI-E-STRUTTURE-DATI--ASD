@@ -1,5 +1,5 @@
 # Algorithms and Data Structure 
-Computer Science course at Politecnico di Torino
+Computer Science course at Politecnico di Torino (2022/23)
 ## Description
 - Development of knowledge and skills in problem-solving, algorithmic design, data structures, and their implementation in the C language
 - Introduction of algorithmic solutions to “classical” problems, their theoretical aspects and foundations, and their implementations in C language
