@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/francescodangolo/Desktop/ALGORITMI E STRUTTURE DATI/LABORATORI/prove/GRAFO" -B "/Users/francescodangolo/Desktop/ALGORITMI E STRUTTURE DATI/LABORATORI/prove/GRAFO/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/francescodangolo/Desktop/ALGORITMI E STRUTTURE DATI/LABORATORI/prove/GRAFO/cmake-build-debug
