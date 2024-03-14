@@ -1,0 +1,3 @@
+/Users/francescodangolo/Desktop/ALGORITMI E STRUTTURE DATI/LABORATORI/prove/Calcolo combinatorio/cmake-build-debug/CMakeFiles/Calcolo_combinatorio.dir
+/Users/francescodangolo/Desktop/ALGORITMI E STRUTTURE DATI/LABORATORI/prove/Calcolo combinatorio/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/francescodangolo/Desktop/ALGORITMI E STRUTTURE DATI/LABORATORI/prove/Calcolo combinatorio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
